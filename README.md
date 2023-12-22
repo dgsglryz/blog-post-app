@@ -40,11 +40,6 @@ Configure the `.env` file with the MongoDB Atlas connection URL. This should poi
 
 The URL can be obtained within the MongoDB Atlas UI. Select the cluster > Connect > Connect your application.
 
-```
-MONGODB_URL=mongodb+srv://davidguleryuz:dvdglryz@cluster0.uz0rehg.mongodb.net/crowdlinkerDB?retryWrites=true&w=majority
-PORT=3001
-
-```
 
 ### Frontend
 
