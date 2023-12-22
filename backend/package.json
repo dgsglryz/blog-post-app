@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dgsglryz/blog-post-app.git"
+    "url": "git+https://github.com/dgsglryz/crowdlinker.git"
   },
   "author": "David Guleryuz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dgsglryz/blog-post-app/issues"
+    "url": "https://github.com/dgsglryz/crowdlinker/issues"
   },
-  "homepage": "https://github.com/dgsglryz/blog-post-app#readme",
+  "homepage": "https://github.com/dgsglryz/crowdlinker#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.6",
